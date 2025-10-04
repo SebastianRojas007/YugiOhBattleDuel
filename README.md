@@ -24,17 +24,6 @@ Un simulador de duelos inspirado en el universo de Yu-Gi-Oh!, desarrollado en Ja
 
 -Arquitectura: MVC simplificado
 
-📂 Estructura del proyecto:
-
-YugiOhBattleDuel/
- ├── pom.xml                # Configuración Maven
- └── src/main/java/com/example/ygo/
-     ├── App.java           # Punto de entrada
-     ├── duel/              # Lógica de batallas y listeners
-     ├── model/             # Representación de cartas
-     ├── net/               # Cliente API
-     └── ui/                # Interfaz gráfica (Swing)
-
 ⚙️ Instalación y ejecución:
 
 -Clonar el repositorio:
