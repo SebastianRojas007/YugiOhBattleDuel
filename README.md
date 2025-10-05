@@ -55,3 +55,11 @@ Desarrolladores:
 
 Erika Ávila Garzón Cod: 2266259
 Juan Sebastian Rojas Robles: 2266258
+
+<img width="1102" height="858" alt="image" src="https://github.com/user-attachments/assets/d4030b6f-76f4-4c23-8ba4-3ca2376e9eb6" />
+
+<img width="1096" height="848" alt="image" src="https://github.com/user-attachments/assets/7edee060-4046-4eac-afc2-c4c986718c21" />
+
+<img width="1101" height="855" alt="image" src="https://github.com/user-attachments/assets/b32c3c15-6553-40c8-9a1b-051ac753716e" />
+
+
